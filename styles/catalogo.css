@@ -1,0 +1,26 @@
+.catalogo{
+    margin-top: 3em;
+}
+
+.preco_container{
+
+    background-color: white;
+    border-radius: 15px;
+    width: 350px;
+    margin-top: 2em;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.titulo_destaque{
+    font-size: 25px;
+    width: 600;
+}
+
+.preco_texto{
+    font-family: "Montserrat", sans-serif;
+    font-size: 20px;
+    text-align: center;
+
+}

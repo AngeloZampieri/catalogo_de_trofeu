@@ -1,0 +1,13 @@
+.swiper {
+    max-width: 100%;
+    align-items: center
+}
+
+.swiper-slide img {
+    border-radius: 30px;
+    width: 200px
+}
+
+.swiper-pagination {
+    margin: em 0
+}

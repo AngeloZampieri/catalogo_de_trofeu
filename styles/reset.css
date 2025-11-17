@@ -1,0 +1,62 @@
+/*
+ * Reset CSS Simples
+ * Garante uma base limpa e consistente para estilização.
+ */
+
+/* 1. Remove margens e preenchimentos padrão de todos os elementos */
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; /* 2. Garante que padding e border não aumentem o tamanho total do elemento */
+}
+
+/* 3. Ajusta o comportamento do scroll para uma experiência mais suave (opcional) */
+html {
+  scroll-behavior: smooth;
+}
+
+/* 4. Define o tamanho da fonte padrão para facilitar o uso de 'rem' */
+/* body {
+  font-size: 16px; 
+} */
+
+/* 5. Remove decorações de lista e estilos de âncora */
+ul, ol {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  color: inherit; /* Faz com que as âncoras herdem a cor do texto pai por padrão */
+}
+
+/* 6. Simplifica as tags de imagem e mídia */
+img,
+picture,
+video,
+canvas,
+svg {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+/* 7. Redefine elementos de formulário para herdar a fonte */
+input,
+button,
+textarea,
+select {
+  font: inherit;
+}
+
+/* 8. Garante que os títulos tenham estilos limpos por padrão */
+h1, h2, h3, h4, h5, h6 {
+  font-weight: inherit; /* Títulos herdam o peso da fonte, evitando negrito indesejado */
+}
+
+/* 9. Evita estouro de texto (útil para containers com largura fixa) */
+p {
+  overflow-wrap: break-word;
+}
