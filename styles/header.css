@@ -1,16 +1,36 @@
-header{
+header {
     align-items: center;
     background-color: #f9faf9;
 }
 
-.logo_Ag{
+.logo_Ag {
     width: fit-content;
     size: 20px;
 }
 
-.titulo_principal{
+.titulo_principal {
     font-size: 40px;
     margin-top: 0.5em;
     font-family: "Anton", sans-serif;
     text-align: center;
+}
+
+@media screen and (min-width:1024px) {
+    .titulo_principal {
+        font-size: 60px;
+    }
+}
+
+@media screen and (min-width:1400px) {
+    header {
+        display: flex;
+    }
+
+    .logo_Ag {
+        width: 700px;
+    }
+
+    .titulo_principal {
+        font-size: 60px;
+    }
 }

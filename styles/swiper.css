@@ -1,13 +1,38 @@
 .swiper {
-    max-width: 100%;
-    align-items: center
+    width: 100%;
+    height: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+}
+
+.swiper-wrapper {
+    align-items: center;
+}
+
+.swiper-slide {
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .swiper-slide img {
     border-radius: 30px;
-    width: 200px
+    width: 270px;
+    display: block;
 }
 
-.swiper-pagination {
-    margin: em 0
+@media screen and (min-width: 1024px) {
+    .modelo-item {
+        width: 49%;
+        margin-bottom: 2em;
+        box-sizing: border-box;
+    }
+}
+
+@media screen and (min-width:1400px) {
+    .swiper-slide img {
+        width: 330px;
+    }
 }
