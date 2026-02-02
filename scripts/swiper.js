@@ -27,23 +27,26 @@ const catalogoItens = [
         precos: "15cm - R$ 13,00 | 20cm - R$ 28,00  25cm - R$ 34,00 | 30cm - R$ 42,00",
         slides: ["./imagens/Modelo 02/Modelo 02 - foto (1).png",
 
-            "./imagens/Modelo 02/Modelo 02 - Foto (2).png",
+            "./imagens/Modelo 02/Modelo 02 - foto (1).png",
 
-            "./imagens/Modelo 02/Modelo 02 - Foto (3).png",
+            "./imagens/Modelo 02/Modelo 02 - foto (2).png",
 
-            "./imagens/Modelo 02/Modelo 02 - Foto (4).png",
+            "./imagens/Modelo 02/Modelo 02 - foto (3).png",
 
-            "./imagens/Modelo 02/Modelo 02 - Foto (5).png",
+            "./imagens/Modelo 02/Modelo 02 - foto (4).png",
 
-            "./imagens/Modelo 02/Modelo 02 - Foto (6).png",
+            "./imagens/Modelo 02/Modelo 02 - foto (5).png",
 
-            "./imagens/Modelo 02/Modelo 02 - Foto (7).png",
+            "./imagens/Modelo 02/Modelo 02 - foto (6).png",
 
-            "./imagens/Modelo 02/Modelo 02 - Foto (8).png",
+            "./imagens/Modelo 02/Modelo 02 - foto (7).png",
 
-            "./imagens/Modelo 02/Modelo 02 - Foto (9).png",
+            "./imagens/Modelo 02/Modelo 02 - foto (8).png",
 
-            "./imagens/Modelo 02/Modelo 02 - Foto (10).png"]
+            "./imagens/Modelo 02/Modelo 02 - foto (9).png",
+
+            "./imagens/Modelo 02/Modelo 02 - foto (10).png"
+        ]
     },
     {
         nome: "Troféu modelo 03",
