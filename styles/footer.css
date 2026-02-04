@@ -4,4 +4,41 @@ footer{
     text-align: center;
     align-items: center;
     font-size: 20px;
+        display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
+
+.linha_footer {
+    width: 100%;
+    background-color: #fff;
+    margin: 0;
+    height: 2px
+}
+
+
+.botao_fale_conosco {
+    background-color: #4bae4f;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    color: var(--cor-texto-normal);
+    border-radius: 10px;
+    font-size: 30px;
+    font-weight: 600;
+    text-align: center;
+    margin: 1em 0 1em 0;
+    padding: .3em;
+    width: 250px
+}
+
+.icone_whatsapp {
+    width: 65px;
+    margin-right: .1em
+}
+
+.botao_fale_conosco:hover {
+    color: #000;
+    background-color: gray
 }
