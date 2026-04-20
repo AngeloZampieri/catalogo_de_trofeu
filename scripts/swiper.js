@@ -1,7 +1,7 @@
 const catalogoItens = [
     {
         nome: "Troféu modelo 01",
-        precos: "15cm - R$ 11,00 | 20cm - R$ 29,00  25cm - R$ 32,00 | 30cm - R$ 37,00",
+        precos: "15cm - R$ 10,00 | 20cm - R$ 26,00  25cm - R$ 29,00 | 30cm - R$ 32,00",
         slides: [
             "./imagens/Modelo 01/Modelo 01 - Foto 0.jpg",
             "./imagens/Modelo 01/Modelo 01 - Foto 1.jpg",
@@ -17,7 +17,7 @@ const catalogoItens = [
     },
     {
         nome: "Troféu modelo 02",
-        precos: "15cm - R$ 12,00 | 20cm - R$ 30,00  25cm - R$ 37,00 | 30cm - R$ 42,00",
+        precos: "15cm - R$ 10,00 | 20cm - R$ 27,00  25cm - R$ 32,00 | 30cm - R$ 36,00",
         slides: [
             "./imagens/Modelo 02/Modelo 02 - foto (1).jpg",
             "./imagens/Modelo 02/Modelo 02 - foto (1).jpg",
@@ -34,7 +34,7 @@ const catalogoItens = [
     },
     {
         nome: "Troféu modelo 03",
-        precos: "15cm - R$ 12,00 | 20cm - R$ 30,00  25cm - R$ 34,00 | 30cm - R$ 38,00",
+        precos: "15cm - R$ 10,00 | 20cm - R$ 27,00  25cm - R$ 30,00 | 30cm - R$ 33,00",
         slides: [
             "./imagens/Modelo 03/Modelo 03 - foto  (1).jpg",
             "./imagens/Modelo 03/Modelo 03 - foto  (2).jpg",
@@ -50,7 +50,7 @@ const catalogoItens = [
     },
     {
         nome: "Troféu modelo 04",
-        precos: "15cm - R$ 12,00 | 20cm - R$ 30,00  25cm - R$ 35,00 | 30cm - R$ 40,00",
+        precos: "15cm - R$ 10,00 | 20cm - R$ 27,00  25cm - R$ 31,00 | 30cm - R$ 35,00",
         slides: [
             "./imagens/Modelo 04/Modelo 04 - foto (1).jpg",
             "./imagens/Modelo 04/Modelo 04 - foto (2).jpg",
@@ -71,7 +71,7 @@ const catalogoItens = [
     },
     {
         nome: "Troféu modelo 05",
-        precos: "15cm - R$ 12,00 | 20cm - R$ 30,00  25cm - R$ 35,00 | 30cm - R$ 40,00",
+        precos: "15cm - R$ 10,00 | 20cm - R$ 27,00  25cm - R$ 31,00 | 30cm - R$ 35,00",
         slides: [
             "./imagens/Modelo 05/Modelo 05 - foto (1).jpg",
             "./imagens/Modelo 05/Modelo 05 - foto (2).jpg",
@@ -92,7 +92,7 @@ const catalogoItens = [
     },
     {
         nome: "Troféu modelo 06",
-        precos: "15cm - R$ 12,00 | 20cm - R$ 30,00  25cm - R$ 35,00 | 30cm - R$ 40,00",
+        precos: "15cm - R$ 10,00 | 20cm - R$ 27,00  25cm - R$ 31,00 | 30cm - R$ 35,00",
         slides: [
             "./imagens/Modelo 06/Modelo 06 - foto (1).jpg",
             "./imagens/Modelo 06/Modelo 06 - foto (2).jpg",
@@ -108,7 +108,7 @@ const catalogoItens = [
     },
     {
         nome: "Troféu modelo 07",
-        precos: "15cm - R$ 13,00 | 20cm - R$ 33,00  25cm - R$ 37,00 | 30cm - R$ 43,00",
+        precos: "15cm - R$ 11,00 | 20cm - R$ 29,00  25cm - R$ 32,00 | 30cm - R$ 36,00",
         slides: [
             "./imagens/Modelo 07/Modelo 07 - foto (1).jpg",
             "./imagens/Modelo 07/Modelo 07 - foto (2).jpg",
@@ -124,7 +124,7 @@ const catalogoItens = [
     },
     {
         nome: "Troféu modelo 08",
-        precos: "15cm - R$ 13,00 | 20cm - R$ 30,00  25cm - R$ 36,00 | 30cm - R$ 40,00",
+        precos: "15cm - R$ 11,00 | 20cm - R$ 27,00  25cm - R$ 31,00 | 30cm - R$ 35,00",
         slides: [
             "./imagens/Modelo 08/Modelo 08 - foto (1).jpg",
             "./imagens/Modelo 08/Modelo 08 - foto (2).jpg",
@@ -140,7 +140,7 @@ const catalogoItens = [
     },
     {
         nome: "Troféu modelo 09",
-        precos: "15cm - R$ 11,00 | 20cm - R$ 30,00  25cm - R$ 32,00 | 30cm - R$ 40,00",
+        precos: "15cm - R$ 9,00 | 20cm - R$ 27,00  25cm - R$ 29,00 | 30cm - R$ 34,00",
         slides: [
             "./imagens/Modelo 09/Modelo 09 - foto (1).jpg",
             "./imagens/Modelo 09/Modelo 09 - foto (2).jpg",
@@ -157,7 +157,7 @@ const catalogoItens = [
     },
     {
         nome: "Troféu modelo 10",
-        precos: "15cm - R$ 13,00 | 20cm - R$ 30,00  25cm - R$ 34,00 | 30cm - R$ 39,00",
+        precos: "15cm - R$ 11,00 | 20cm - R$ 27,00  25cm - R$ 30,00 | 30cm - R$ 34,00",
         slides: [
             "./imagens/Modelo 10/Modelo 10 - foto (1).jpg",
             "./imagens/Modelo 10/Modelo 10 - foto (2).jpg",
